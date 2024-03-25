@@ -27,14 +27,14 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               By{" "}
-              <Image
+              {/* <Image
                 src={null}
                 alt={null}
                 className={styles.vercelLogo}
                 width={100}
                 height={24}
                 priority
-              />
+              /> */}
             </a>
           </div>
         </div>
