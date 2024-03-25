@@ -29,7 +29,7 @@ export default function Home() {
               By{" "}
               <Image
                 src={null}
-                alt="Vercel Logo"
+                alt={null}
                 className={styles.vercelLogo}
                 width={100}
                 height={24}
